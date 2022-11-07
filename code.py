@@ -1,3 +1,7 @@
+# Documentation
+# Name : Yohjit Chopra
+# Roll No. 2110994798
+
 import RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BOARD)
